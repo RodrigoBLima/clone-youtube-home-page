@@ -20,7 +20,7 @@ function App() {
       background: {
         default: darkMode ? "#232323" : "#FFF",
         paper: darkMode ? "#232323" : "#FFF",
-        // dark: darkMode ? '#181818' : '#f4f6f8',
+        dark: darkMode ? '#181818' : '#f4f6f8',
       },
     },
   });
